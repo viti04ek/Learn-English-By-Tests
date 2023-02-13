@@ -1,0 +1,181 @@
+1. Do you _____ chocolate milk?
++
+like
+likes
+be like
+2. He _____ not want to go to the movies.
+do
++
+does
+is
+3. He ____________ now.
+plays tennis
++
+wants breakfast
+walks home
+4. It _____ a beautiful day today.
++
+is
+are
+am
+5. Sorry, Lisa _____ not here at the moment.
+am
++
+is
+be
+6. They're not here. They ____________ right now.
+go to school
+swim at the beach
++
+are on holiday
+7. Robert _____ not go to my school.
+is
++
+does
+are
+8. My parents _____ in a two-bedroom apartment.
++
+live
+lives
+are live
+9. We _____ European.
+do be
++
+are
+do are
+10. You _____ so happy today!
+looks
++
+seem
+be
+11. Mr. Black _____ e-mails in the evenings.
+write
++
+writes
+writs
+12. Do you _____ milk in your tea?
++
+like
+likes
+liks
+13. The girls _____ the shopping.
++
+do
+does
+dos
+14. _____ any one object if I turn the heating down?
+Do
++
+Does
+Did
+Doing
+15. _____ (have) the car keys? -No.
+You do have
+Have you
+Are you having
++
+Do you have
+16. Sally _____ (never/ take) her dog for a walk. Her brother _____ (do/ always) it.
++
+never takes/ always does
+never don't take/ always do
+never take/ does always
+17. She _____ trying to pass her driving test but fails every time.
+is keeping
+had kept
++
+keeps
+kept
+18. I _____ complete silence now while I try this experiment.
+have wanted
+did want
+am wanting
++
+want
+19. She wonders why I never _____ abroad by plane.
+will have travelled
+have been travelling
+has travelled
++
+travel
+20. I suppose as we live in a very rural area, we are lucky that a train service actually _____ here.
+works
++
+operates
+takes
+functions
+21. What do you _____ to do when you leave school?
+wanting
+wants
+wanted
++
+want
+22. And at other times I'm glad I _____ know what the future holds.
++
+don't
+hadn't
+doesn't
+didn't
+23. All the _____ a stage said Shakespeare, meaning life is like a play in the theatre.
++
+world's
+land's
+earth's
+country's
+24. She _____ in Florida.
+livees
++
+lives
+live
+25. I _____ in a bank.
++
+work
+works
+workes
+26. My best friend _____ to me every week.
+write
+writies
++
+writes
+27. John _____ very hard in class, but I don't think he'll pass the course.
+trys
++
+tries
+try
+28. My life is so boring -- I just _____ TV every night.
++
+watch
+watches
+watchies
+29. The bank _____ at four o'clock.
+close
++
+closes
+closies
+30. We _____ to Spain every summer.
+flys
+flies
++
+fly
+31. My mother _____ eggs for breakfast every morning.
+frys
++
+fries
+fry
+32. Jo is so smart that she _____ every exam without even trying.
++
+passes
+passies
+pass
+33. It _____ almost every day in Manchester.
++
+rains
+raines
+rain
+----------------
+0
+75
+You didn`t pass the exam, learn and try again!
+75
+101
+Congratulations, you passed your exam on this topic!
